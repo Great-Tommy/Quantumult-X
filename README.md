@@ -1,0 +1,2 @@
+# Quantumult-X
+Private QuantumulXConfig
